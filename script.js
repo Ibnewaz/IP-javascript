@@ -1,5 +1,5 @@
 
-// ================= CALCULATOR =================
+
 
 let display = document.getElementById("display");
 
@@ -28,7 +28,7 @@ function calculate(){
 }
 
 
-// ================= TIMER =================
+
 
 let seconds = 0;
 let minutes = 0;
